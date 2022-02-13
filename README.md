@@ -10,5 +10,7 @@ a website that offers fitness training services
 ## Website
 http://DilorenzoJ.github.io/run-buddy/
 
-##Contributions
+## Contributions
 Made with ❤ by Johnathan DiLorenzo
+
+### ©️2022 Run Buddy, Inc
